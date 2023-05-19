@@ -5,7 +5,7 @@
 
 ___
 
-Este projeto foi desenvolvido para descrever quem sou e que tipo de habilidades possuo.
+Este projeto foi desenvolvido para descrever quem sou e que tipo de habilidades possuo, bem como meus projetos.
 
 
 ---  
